@@ -1,9 +1,9 @@
 ### ERC20 Token Smart Contract
 
-This project contains created erc20 tokens. The (standard for erc20 tokens)[https://ethereum.org/en/developers/docs/standards/tokens/erc-20/] is applied. 
+This project contains created erc20 tokens. The [standard for erc20 tokens](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) is applied. 
 
 ### Steps to use on Remix
-- Copy contract from `contracts` folder to (Remix Editor)[https://remix.ethereum.org/]
+- Copy contract from `contracts` folder to [Remix Editor](https://remix.ethereum.org)
 - Select solidity version
 - Compile scripts
 - Deploy and Run Test on Remix
