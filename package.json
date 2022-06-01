@@ -1,0 +1,21 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "fs-extra": "^10.1.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.0.0",
+    "solc": "^0.5.16",
+    "web3": "^1.7.3"
+  }
+}
